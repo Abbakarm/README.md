@@ -10,5 +10,5 @@ Today I learned about the `def` keyword.
 
 ### My First Code Snippet:
 ```python
-def greet_fellow(Abubakar Musa):
-    print("Hello " + name + ", welcome to 3MTT!")
+def greet_fellow(name):
+    print("Hello " Abubakar Musa ", welcome to 3MTT!")
